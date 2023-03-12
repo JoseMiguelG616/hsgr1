@@ -1,5 +1,4 @@
 *{
-    margin: 0;
     background: lightblue;
 }
 
@@ -31,5 +30,4 @@ button{
 #img1{
     width: auto;
     height: auto;
-    padding: 0.5em;
 }
