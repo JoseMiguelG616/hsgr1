@@ -29,7 +29,7 @@ button{
 }
 
 #img1{
-    width: 30vw;
-    height: 70vh;
+    width: auto;
+    height: auto;
     padding: 0.5em;
 }
